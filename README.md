@@ -8,7 +8,7 @@
 -Dans le cas contraire,, on l'installe avec la commande 'sudo apt-get install python3.'
 
 
-###Parite Pair
+**Parite Pair**
 
 1-On lance le debuggage du programme avec la commande,
 ```
@@ -19,7 +19,8 @@
 
 
 
-###Parite Impair
+**Parite Impair**
+
 1-On lance le debuggage du programme avec la commande,
 ```
 'python3 impair.py'
@@ -29,7 +30,8 @@
 
 
 
-###Somme de controle
+**Somme de controle**
+
 1-On lance le debuggage du programme avec la commande,
 ```
 'python3 cksum.py'
@@ -37,5 +39,5 @@
 2-On entre un mot
 3-Cela va ajouter dependant du mot insere et va afficher toute la somme arrivant jusqu'au totale. 
 
-###Fin
+**Fin**
 
